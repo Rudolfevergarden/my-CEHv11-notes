@@ -31,3 +31,9 @@ Attack = motive (goal) + method + vulnerability
 5. Distributed attacks
     - tamper with hardware or software prior to installation
 
+## Information Warfare
+
+## Cyber Kill Chain Methodology
+- Component of intellegence driven defence for identification and prevention of malicious intrusion activities.
+- Helps understand the adversary's tactics, teacniques, and procedures.
+
