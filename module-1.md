@@ -37,3 +37,9 @@ Attack = motive (goal) + method + vulnerability
 - Component of intellegence driven defence for identification and prevention of malicious intrusion activities.
 - Helps understand the adversary's tactics, teacniques, and procedures.
 
+## Tactics, Techniques and Procedures (TTPs)
+- pattern of activities and methods associated with specific threat actors or group of threat actors.
+
+### Tactics
+- way an attacker performs the attack.
+- 
