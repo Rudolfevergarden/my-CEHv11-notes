@@ -32,6 +32,18 @@ Attack = motive (goal) + method + vulnerability
     - tamper with hardware or software prior to installation
 
 ## Information Warfare
+The use of information and communication technologies (ICT) for competitive advantages over an opponent.
+Example of information warefare weapons
+- viruses
+- worms
+- Torjan horses
+- logic bomb
+- traps doors etc.
+
+Categories (by Martin Libicki)
+- **Command and control warefare**(c2 warfare)
+
+
 
 ## Cyber Kill Chain Methodology
 - Component of intellegence driven defence for identification and prevention of malicious intrusion activities.
