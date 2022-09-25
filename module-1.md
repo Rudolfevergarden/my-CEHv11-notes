@@ -53,8 +53,9 @@ Techniques such as propaganda and terror to demoralize one's opponent in an atte
 - **Hacker warfare**
 Can vary from the shutdown of systems, data error, theft of information, theft of service, false messaging, system monitering, access to data, logic bomb, virus etc.
 - **Economic warfare**
-
-
+Affects the economy of a business or nation by blocking the flow of information.
+- **Cyberwarfare**
+Instead of harming the system, takes over the system while maintaining the perception that it is operating correctly.
 
 
 ## Cyber Kill Chain Methodology
@@ -66,4 +67,12 @@ Can vary from the shutdown of systems, data error, theft of information, theft o
 
 ### Tactics
 - way an attacker performs the attack.
-- 
+- Tactics for information gathering.
+
+### Techniques
+- technical methods used by an attacker
+- includes initial exploitaion, setting up and maintaining command and control channels, acessing target infrastructure, covering tracks. etc.
+
+### Procedures
+- Organizational approches that threat actors follow to launch an attack.
+- Actions usually differs depending on the objectives.
