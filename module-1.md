@@ -34,7 +34,7 @@ Attack = motive (goal) + method + vulnerability
 ## Information Warfare
 The use of information and communication technologies (ICT) for competitive advantages over an opponent.
 
-Example of information warefare weapons
+Example of information warfare weapons
 - viruses
 - worms
 - Torjan horses
@@ -44,7 +44,7 @@ Example of information warefare weapons
 Categories (by Martin Libicki)
 - **Command and control warfare**(c2 warfare)
 The Impact an attacker possesses over a compromised system or the network they control.
-- **Intellogence based warfare**
+- **Intelligence based warfare**
 Sensor based technology that directly corrupts technological systems.
 - **Electronic warfare**
 Use of radio electoronic and cryptographic techniques to degrade communication.
@@ -61,6 +61,10 @@ Instead of harming the system, takes over the system while maintaining the perce
 ## Cyber Kill Chain Methodology
 - Component of intellegence driven defence for identification and prevention of malicious intrusion activities.
 - Helps understand the adversary's tactics, teacniques, and procedures.
+
+### Various phases in cyber kill chain
+- Reconnaissance
+An asversary performs reconnaissance to collect as much information about the target as possible to probe for weak points before actually attaking.
 
 ## Tactics, Techniques and Procedures (TTPs)
 - pattern of activities and methods associated with specific threat actors or group of threat actors.
